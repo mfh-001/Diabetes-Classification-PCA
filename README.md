@@ -52,6 +52,6 @@ The project generates high-resolution evaluation plots:
 
 <img width="988" height="542" alt="Screenshot 2026-01-01 at 7 39 57 PM" src="https://github.com/user-attachments/assets/0d106e3c-51e1-45e5-8f6e-507cb22d017e" />
 
-## ⚠️ Academic Integrity
-This repository is intended solely as a piece to showcase my learning journey. 
-If you are a student working on a similar assignment: **do not copy this code.** Plagiarism is a serious offense that can lead to expulsion. Use this only as a conceptual reference to understand classification and dimensionality reduction.
+## ⚠️ Disclaimer
+
+This repository serves as a showcase of my technical growth and learning journey. The contents are intended strictly for educational and research purposes. All outputs should be treated as conceptual references rather than production-ready solutions.
